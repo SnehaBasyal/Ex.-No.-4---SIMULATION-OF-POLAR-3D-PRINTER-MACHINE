@@ -1,6 +1,6 @@
 # Ex. No.4 SIMULATION OF POLAR 3D PRINTER MACHINE
 
-### DATE: 
+## Date:
 
 ## AIM:
 ### To simulate the construction of polar 3D printer and to get in-depth knowledge of mechatronics of polar 3D printers.
@@ -33,8 +33,52 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Assembly of polar 3d printer
+
+### Y-Axis Base :
+The base of the printer that supports the rest of the components
+
+### Z-Axis Frame :
+This is the frame that holds the print head and moves it up and down along the vertical axis.
+
+### Smooth Rods :
+The smooth rods that provide smooth and accurate movement of the Z-axis frame.
+
+### Motors :
+provide the power to move the Z-axis frame and the print head.
+
+### Extruder Supporter :
+The support structure that holds the extruder assembly.
+
+### Threaded Rod :
+Threaded rod that provides the power to move the Z-axis frame up and down.
+
+### Y-Axis Frame :
+The frame that moves the print head in the horizontal plane.
+
+### Motor with Gear :
+provides the power to move the Y-axis frame
+
+### Motor-with-Pulley :
+provides the power to move the Z-axis frame.
+
+### Gears :
+Transfer power from the stepper motors to the threaded rod and the smooth rods.
+
+### Plate :
+plate where the printed object is created.
+
+### Extruder :
+melts and extrudes the filament to create the printed object.
+
+### Filament :
+material that is used to create the printed object.
+<br>
+
+![Ex.No.4-SIMULATION-OF-POLAR-3D-PRINTER-MACHINE](empd4.png)
+
+### Name: Sneha Basyal M
+### Register Number: 212222240101
 
 ## Result: 
 ### Thus the simulation on construction of polar 3D printer is completed & movement of axis along X, Y, & Z has been studied.
