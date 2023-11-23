@@ -27,53 +27,7 @@
 
 ## OUTPUT:
 
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/9e41de91-6dcc-4352-ab44-443028d3ac1a)
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/113594316/88273b69-4e7d-4f42-9115-fb07ac22e4ec)
-
-## Output:
-
-### Assembly of polar 3d printer
-
-### Y-Axis Base :
-The base of the printer that supports the rest of the components
-
-### Z-Axis Frame :
-This is the frame that holds the print head and moves it up and down along the vertical axis.
-
-### Smooth Rods :
-The smooth rods that provide smooth and accurate movement of the Z-axis frame.
-
-### Motors :
-provide the power to move the Z-axis frame and the print head.
-
-### Extruder Supporter :
-The support structure that holds the extruder assembly.
-
-### Threaded Rod :
-Threaded rod that provides the power to move the Z-axis frame up and down.
-
-### Y-Axis Frame :
-The frame that moves the print head in the horizontal plane.
-
-### Motor with Gear :
-provides the power to move the Y-axis frame
-
-### Motor-with-Pulley :
-provides the power to move the Z-axis frame.
-
-### Gears :
-Transfer power from the stepper motors to the threaded rod and the smooth rods.
-
-### Plate :
-plate where the printed object is created.
-
-### Extruder :
-melts and extrudes the filament to create the printed object.
-
-### Filament :
-material that is used to create the printed object.
-<br>
+![284583177-3cf84d36-c272-4643-b6d8-1343634aac97](https://github.com/SnehaBasyal/Ex.-No.-4---SIMULATION-OF-POLAR-3D-PRINTER-MACHINE/assets/119390146/7199e807-0233-4e35-bb5d-f69105ee08f0)
 
 ![Ex.No.4-SIMULATION-OF-POLAR-3D-PRINTER-MACHINE](empd4.png)
 
